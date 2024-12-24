@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
 {
-	std::cout<<"hello using github"<<std::endl;
+	std::cout<<"wecome to  using github"<<std::endl;
 	  return 0;
 }
